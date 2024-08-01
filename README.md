@@ -19,7 +19,7 @@ This chat application is built using the MERN stack (MongoDB, Express.js, React,
 Clone the project
 
 ```bash
-  git clone https://github.com/Akash-co/Web-Sushi---Assignment.git
+  git clone https://github.com/Akash-co/WebSushi_Assignment.git
 ```
 
 Go to the project directory
